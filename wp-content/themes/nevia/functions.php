@@ -202,8 +202,8 @@ function nevia_widgets_init() {
         'description' => '1st column for widgets in Footer.',
         'before_widget' => '<div id="%1$s" class="footer- %2$s">',
         'after_widget' => '</div>',
-         'before_title' => '<h4>',
-        'after_title' => '</h4>',
+         'before_title' => '<p class="title">',
+        'after_title' => '</p>',
         ));
      register_sidebar(array(
         'id' => 'footer2nd',
@@ -211,8 +211,8 @@ function nevia_widgets_init() {
         'description' => '2nd column for widgets in Footer.',
         'before_widget' => '<div id="%1$s" class="footer- %2$s">',
         'after_widget' => '</div>',
-         'before_title' => '<h4>',
-        'after_title' => '</h4>',
+         'before_title' => '<p class="title">',
+        'after_title' => '</p>',
         ));
      register_sidebar(array(
         'id' => 'footer3rd',
@@ -220,8 +220,8 @@ function nevia_widgets_init() {
         'description' => '3rd column for widgets in Footer.',
         'before_widget' => '<div id="%1$s" class="footer-widget %2$s">',
         'after_widget' => '</div>',
-         'before_title' => '<h4>',
-        'after_title' => '</h4>',
+         'before_title' => '<p class="title">',
+        'after_title' => '</p>',
         ));
      register_sidebar(array(
         'id' => 'footer4th',
@@ -229,8 +229,8 @@ function nevia_widgets_init() {
         'description' => '4th column for widgets in Footer.',
         'before_widget' => '<div id="%1$s" class="footer- %2$s">',
         'after_widget' => '</div>',
-         'before_title' => '<h4>',
-        'after_title' => '</h4>',
+         'before_title' => '<p class="title">',
+        'after_title' => '</p>',
         ));
 
      //custom sidebars:
