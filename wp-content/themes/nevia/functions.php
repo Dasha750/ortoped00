@@ -183,8 +183,8 @@ function nevia_widgets_init() {
         'name' => 'Sidebar',
         'before_widget' => '<div id="%1$s" class="widget  %2$s">',
         'after_widget' => '</div>',
-        'before_title' => '<div class="headline no-margin"><h4>',
-        'after_title' => '</h4></div>',
+        'before_title' => '<div class="headline no-margin"><p class = "title">',
+        'after_title' => '</p></div>',
         ));
     if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
      register_sidebar(array(
