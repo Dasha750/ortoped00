@@ -9,9 +9,9 @@
 
     <section class="post-content">
       <header class="meta">
-        <h2><a href="<?php the_permalink(); ?>" title="<?php printf(esc_attr__('Permalink to %s', 'purepress'), the_title_attribute('echo=0')); ?>" rel="bookmark">
+        <p class="title"><a href="<?php the_permalink(); ?>" title="<?php printf(esc_attr__('Permalink to %s', 'purepress'), the_title_attribute('echo=0')); ?>" rel="bookmark">
           <?php the_title(); ?>
-        </a></h2>
+        </a></p>
         <?php nevia_posted_on(); ?>
       </header>
 
