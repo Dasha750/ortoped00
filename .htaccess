@@ -1,0 +1,39 @@
+Options -Indexes
+
+<files .htaccess>
+Order allow,deny
+Deny from all
+</files>
+
+<files readme.html>
+Order allow,deny
+Deny from all
+</files>
+
+<files readme.txt>
+Order allow,deny
+Deny from all
+</files>
+
+<files install.php>
+Order allow,deny
+Deny from all
+</files>
+
+<files wp-config.php>
+Order allow,deny
+Deny from all
+</files>
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+

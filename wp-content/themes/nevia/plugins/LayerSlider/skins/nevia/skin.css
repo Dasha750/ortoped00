@@ -1,0 +1,187 @@
+/* LayerSlider Nevia Skin */
+
+/*==================================================================== */
+/* LayerSlider Styles
+====================================================================== */
+
+.ls-container {
+	visibility: hidden;
+	position: relative;
+}
+
+.ls-inner {
+	position: relative;
+	background-position: center center;
+}
+
+.ls-inner,
+.ls-layer {
+	width: 100%;
+	height: 100%;
+}
+
+.ls-layer {
+	position: absolute;
+	display: none;
+	background-position: center center;
+	overflow: hidden;
+}
+
+.ls-layer * {
+	margin: 0px;
+	line-height: normal;
+}
+
+.ls-active,
+.ls-animating {
+	display: block !important;
+}
+
+.ls-layer > * {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.ls-layer .ls-bg {
+	left: 50%;
+	top: 50%;
+}
+
+.ls-yourlogo {
+	position: absolute;
+	z-index: 99;
+}
+
+
+/* Embedded videos */
+.ls-vpcontainer {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.ls-videopreview {
+	width : 100%;
+	height : 100%;
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	cursor : pointer;
+}
+
+.ls-playvideo {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	cursor: pointer;
+}
+
+.ls-wp-fullwidth-container {
+	width: 100%;
+	position: relative;
+}
+
+.ls-wp-fullwidth-helper {
+	position: absolute;
+}
+
+.ls-container img,
+.entry-content .ls-container img,
+.comment-content .ls-container img,
+.widget .ls-container img {
+	border-radius: 0px;
+	box-shadow: none;
+	max-width: none !important;
+	transition: none !important;
+	-o-transition: none !important;
+	-ms-transition: none !important;
+	-moz-transition: none !important;
+	-webkit-transition: none !important;
+}
+
+.entry-content .ls-container *,
+.comment-content .ls-container *,
+.widget .ls-container * {
+	line-height: normal;
+	padding: 0px;
+	outline: none;
+	border: 0px;
+}
+
+.entry-content .ls-yourlogo,
+.entry-content .ls-inner *,
+.comment-content .ls-inner *,
+.widget .ls-inner * {
+	margin: 0px;
+}
+
+.entry-content .ls-tn,
+.comment-content .ls-tn,
+.widget .ls-tn {
+	display: none;
+}
+
+/* Style of LayerSlider Debug Console */
+
+
+.ls-shadow { display: none !important; }
+
+.ls-debug-console li:hover ul {
+	display: block;
+}
+
+.ls-debug-console li ul * {
+	color: black !important;
+}
+
+.ls-debug-console a {
+	text-decoration: none !important;
+	border-bottom: 1px dotted white !important;
+}
+
+/* LayerSlider Skin */
+.ls-container {
+	background: url('layerslider-loader.gif') no-repeat center;
+}
+
+.ls-nevia .ls-nav-prev,
+.ls-nevia .ls-nav-next,
+.ls-nevia .ls-playvideo,
+.ls-nevia .ls-playvideo:hover {
+	-webkit-transition: background-color 200ms ease-in-out;
+	-moz-transition: background-color 200ms ease-in-out;
+	-o-transition: background-color 200ms ease-in-out;
+	-ms-transition: background-color 200ms ease-in-out;
+	transition: background-color 200ms ease-in-out;
+}
+
+.ls-nevia .ls-nav-prev,
+.ls-nevia .ls-nav-next {
+	width: 39px;
+	height: 71px;
+	margin-top: -36px;
+	display: block;
+	position: absolute;
+	z-index: 100;
+	cursor: pointer;
+	text-indent: -9999px;
+	top: 50%;
+}
+
+.ls-nevia .ls-nav-prev { background: url('slider-left.png') no-repeat 50%; background-color: #4c4c4c; left: 0; border-radius: 0 2px 2px 0; }
+.ls-nevia .ls-nav-next { background: url('slider-right.png') no-repeat 50%; background-color: #4c4c4c; right: 0; border-radius: 2px 0 0 2px; }
+
+.ls-nevia .ls-playvideo {
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin-left: -25px;
+	margin-top: -25px;
+	background: url(images/layerslider-video.png) no-repeat 50%;
+	opacity: 0.8;
+}
+
+.ls-nevia .ls-playvideo:hover {	opacity: 1; }

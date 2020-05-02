@@ -1,0 +1,4067 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nevia\n"
+"POT-Creation-Date: 2013-02-23 23:05+0800\n"
+"PO-Revision-Date: 2014-06-14 21:04+0200\n"
+"Last-Translator: Eugene Brazhko <Eugene.Brazhko@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../content-single.php:122
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на статью \"%s\""
+
+#: ../content-single.php:154
+msgid "With 0 comments"
+msgstr "Нет отзывов"
+
+#: ../content-single.php:154
+msgid "With 1 comment"
+msgstr "1 отзыв"
+
+#: ../content-single.php:154
+msgid "With % comments"
+msgstr "% отзывов"
+
+#: ../inc/template-tags.php:262
+msgid "Archive by category \""
+msgstr "Архив рубрики \""
+
+#: ../inc/template-tags.php:265
+msgid "Search results for \""
+msgstr "Результаты поиска \""
+
+#: ../404.php:17
+msgid "404 Page Not Found"
+msgstr "404 Страница не найдена"
+
+#: ../404.php:36
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr "К сожалению страница, которую вы ищете, не существует."
+
+#: ../comments.php:31
+msgid "Comments"
+msgstr "Вопросы / Ответы / Отзывы"
+
+#: ../comments.php:35 ../comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr "Комментарии запрещены."
+
+#: ../content-page.php:16 ../content-pageleft.php:16
+#: ../content-pageright.php:16 ../image.php:85
+#: ../option-tree/includes/ot-functions-admin.php:2661
+#: ../option-tree/includes/ot-functions-admin.php:2715
+#: ../option-tree/includes/ot-functions-admin.php:2716
+#: ../option-tree/includes/ot-functions-admin.php:2851
+#: ../option-tree/includes/ot-functions-admin.php:2852
+#: ../option-tree/includes/ot-functions-admin.php:2917
+#: ../option-tree/includes/ot-functions-admin.php:2918
+#: ../option-tree/includes/ot-functions-admin.php:3045
+#: ../option-tree/includes/ot-functions-admin.php:3046
+#: ../plugins/LayerSlider/list.php:44
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/myaccount/my-address.php:56
+msgid "Edit"
+msgstr "Изменить"
+
+#: ../content-page.php:29 ../content-pageleft.php:38
+#: ../content-pageright.php:32 ../image.php:94
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../content-single.php:124 ../postformats/gallery-medium.php:43
+#: ../postformats/gallery.php:49 ../postformats/image-medium.php:22
+#: ../postformats/image.php:23 ../postformats/standard.php:15
+#: ../postformats/video.php:32
+msgid "By"
+msgstr " "
+
+#: ../content-single.php:126 ../postformats/gallery-medium.php:45
+#: ../postformats/gallery.php:51 ../postformats/image-medium.php:24
+#: ../postformats/image.php:25 ../postformats/standard.php:17
+#: ../postformats/video.php:34
+msgid "With"
+msgstr " "
+
+#: ../content-single.php:126 ../postformats/gallery-medium.php:45
+#: ../postformats/gallery.php:51 ../postformats/image-medium.php:24
+#: ../postformats/image.php:25 ../postformats/standard.php:17
+#: ../postformats/video.php:34
+msgid "0 comments"
+msgstr "0 комментариев"
+
+#: ../content-single.php:126 ../postformats/gallery-medium.php:45
+#: ../postformats/gallery.php:51 ../postformats/image-medium.php:24
+#: ../postformats/image.php:25 ../postformats/standard.php:17
+#: ../postformats/video.php:34
+msgid "1 comment"
+msgstr "1 комментарий"
+
+#: ../content-single.php:126 ../postformats/gallery-medium.php:45
+#: ../postformats/gallery.php:51 ../postformats/image-medium.php:24
+#: ../postformats/image.php:25 ../postformats/standard.php:17
+#: ../postformats/video.php:34
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../content-single.php:126 ../postformats/gallery-medium.php:45
+#: ../postformats/gallery.php:51 ../postformats/image-medium.php:24
+#: ../postformats/image.php:25 ../postformats/standard.php:17
+#: ../postformats/video.php:34
+msgid "Comments are off"
+msgstr "Комментарии отключены"
+
+#: ../functions.php:150
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: ../functions.php:151
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: ../functions.php:304 ../functions.php:305 ../functions.php:315
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../functions.php:306 ../functions.php:354
+#: ../option-tree/includes/ot-functions-option-types.php:596
+#: ../option-tree/includes/ot-functions-option-types.php:835
+#: ../plugins/LayerSlider/layerslider.php:372
+#: ../plugins/LayerSlider/list.php:19
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:307
+msgid "Add New Work"
+msgstr ""
+
+#: ../functions.php:308
+msgid "Edit Work"
+msgstr ""
+
+#: ../functions.php:309
+msgid "New Work"
+msgstr ""
+
+#: ../functions.php:310
+msgid "View Work"
+msgstr ""
+
+#: ../functions.php:311
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../functions.php:312
+msgid "No portfolio found"
+msgstr ""
+
+#: ../functions.php:313
+msgid "No works found in Trash"
+msgstr ""
+
+#: ../functions.php:314
+msgid "Parent work:"
+msgstr ""
+
+#: ../functions.php:321 ../functions.php:369
+msgid "Display your works by filters"
+msgstr ""
+
+#: ../functions.php:352 ../functions.php:363
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions.php:353
+msgid "testimonial"
+msgstr ""
+
+#: ../functions.php:355
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../functions.php:356
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../functions.php:357
+msgid "New Testimonial"
+msgstr ""
+
+#: ../functions.php:358
+msgid "View Testimonial"
+msgstr ""
+
+#: ../functions.php:359
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../functions.php:360
+msgid "No testimonials found"
+msgstr ""
+
+#: ../functions.php:361
+msgid "No testimonials found in Trash"
+msgstr ""
+
+#: ../functions.php:362
+msgid "Parent testimonial:"
+msgstr ""
+
+#: ../functions.php:397 ../functions.php:411
+msgid "Filters"
+msgstr ""
+
+#: ../functions.php:398
+msgid "Filter"
+msgstr ""
+
+#: ../functions.php:399
+msgid "Search Filters"
+msgstr ""
+
+#: ../functions.php:400
+msgid "Popular Filters"
+msgstr ""
+
+#: ../functions.php:401
+msgid "All Filters"
+msgstr ""
+
+#: ../functions.php:402
+msgid "Parent Filter"
+msgstr ""
+
+#: ../functions.php:403
+msgid "Parent Filter:"
+msgstr ""
+
+#: ../functions.php:404
+msgid "Edit Filter"
+msgstr ""
+
+#: ../functions.php:405
+msgid "Update Filter"
+msgstr ""
+
+#: ../functions.php:406
+msgid "Add New Filter"
+msgstr ""
+
+#: ../functions.php:407
+msgid "New Filter"
+msgstr ""
+
+#: ../functions.php:408
+msgid "Separate Filters with commas"
+msgstr ""
+
+#: ../functions.php:409
+msgid "Add or remove Filters"
+msgstr ""
+
+#: ../functions.php:410
+msgid "Choose from the most used Filters"
+msgstr ""
+
+#: ../functions.php:518 ../functions.php:522
+msgid "Product successfully added to your cart."
+msgstr ""
+
+#: ../functions.php:518
+msgid "Continue Shopping &rarr;"
+msgstr ""
+
+#: ../functions.php:522
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: ../header.php:111 ../searchform.php:11
+msgid "Search"
+msgstr "Поиск"
+
+#: ../header.php:140
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+#: ../image.php:21
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:22
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../image.php:74
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../loop.php:8 ../template-bloglarge.php:27 ../template-blogmedium.php:24
+#, php-format
+msgid "Category Archives: %s"
+msgstr "%s"
+
+#: ../loop.php:11 ../template-bloglarge.php:30 ../template-blogmedium.php:27
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "%s"
+
+#: ../loop.php:18 ../template-bloglarge.php:37 ../template-blogmedium.php:34
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Публикации автора: %s"
+
+#: ../loop.php:26 ../template-bloglarge.php:45 ../template-blogmedium.php:42
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архив за день: %s"
+
+#: ../loop.php:29 ../template-bloglarge.php:48 ../template-blogmedium.php:45
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архив за месяц: %s"
+
+#: ../loop.php:32 ../template-bloglarge.php:51 ../template-blogmedium.php:48
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архив за год: %s"
+
+#: ../loop.php:94 ../search.php:67 ../template-bloglarge.php:120
+#: ../template-blogmedium.php:119 ../inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../loop.php:98 ../search.php:71 ../template-bloglarge.php:124
+#: ../template-blogmedium.php:123 ../inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../no-results.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые "
+"слова."
+
+#: ../no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../pftpl.php:37 ../pftpl.php:39 ../pftpl.php:53 ../pftpl.php:55
+#: ../pftpl3col.php:35 ../pftpl3col.php:37 ../pftpl3col.php:52
+#: ../pftpl3col.php:54 ../pftpl4col.php:35 ../pftpl4col.php:37
+#: ../pftpl4col.php:52 ../pftpl4col.php:54
+msgid "All"
+msgstr ""
+
+#: ../pftpl.php:137 ../pftpl3col.php:135 ../pftpl4col.php:131
+msgid "<span class=\"meta-nav\">&larr;</span> Previous page"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущая страница"
+
+#: ../pftpl.php:141 ../pftpl3col.php:139 ../pftpl4col.php:135
+msgid "Next page <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующая страница <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: ../sidebar.php:22 ../sidebar.php:48
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../sidebar.php:29 ../sidebar.php:55
+msgid "Meta"
+msgstr ""
+
+#: ../single-portfolio.php:28 ../single-portfolio.php:29
+msgid "Previous"
+msgstr ""
+
+#: ../single-portfolio.php:30 ../single-portfolio.php:31
+msgid "Next"
+msgstr ""
+
+#: ../single-portfolio.php:174
+msgid "Related Works"
+msgstr ""
+
+#: ../inc/customizer.php:52
+msgid "Main color"
+msgstr ""
+
+#: ../inc/customizer.php:62
+msgid "Color Setting"
+msgstr ""
+
+#: ../inc/customizer.php:73
+msgid "Menu type"
+msgstr ""
+
+#: ../inc/customizer.php:82
+msgid "Select menut type"
+msgstr ""
+
+#: ../inc/customizer.php:101
+msgid "Display Tagline"
+msgstr ""
+
+#: ../inc/extras.php:75
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/extras.php:149
+msgid "No Gallery"
+msgstr ""
+
+#: ../inc/extras.php:201
+#: ../option-tree/includes/ot-functions-option-types.php:467
+#: ../option-tree/includes/ot-functions-option-types.php:525
+#: ../option-tree/includes/ot-functions-option-types.php:893
+#: ../option-tree/includes/ot-functions-option-types.php:948
+msgid "No Posts Found"
+msgstr ""
+
+#: ../inc/megamenu.php:402
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../inc/megamenu.php:406
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../inc/megamenu.php:447
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../inc/megamenu.php:456 ../plugins/LayerSlider/add.php:419
+#: ../plugins/LayerSlider/add.php:1259 ../plugins/LayerSlider/edit.php:428
+#: ../plugins/LayerSlider/edit.php:1284
+msgid "URL"
+msgstr ""
+
+#: ../inc/megamenu.php:463
+msgid "Navigation Label"
+msgstr ""
+
+#: ../inc/megamenu.php:469
+msgid "Title Attribute"
+msgstr ""
+
+#: ../inc/megamenu.php:476
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../inc/megamenu.php:481
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../inc/megamenu.php:487
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../inc/megamenu.php:493 ../option-tree/includes/ot-functions-admin.php:2140
+#: ../option-tree/includes/ot-functions-admin.php:2191
+#: ../option-tree/includes/ot-functions-docs-page.php:43
+#: ../option-tree/includes/ot-functions-docs-page.php:367
+#: ../option-tree/includes/ot-functions-docs-page.php:417
+#: ../woocommerce/single-product/tabs/tab-description.php:13
+msgid "Description"
+msgstr ""
+
+#: ../inc/megamenu.php:495
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../inc/megamenu.php:503
+msgid "Width of container for submenu"
+msgstr ""
+
+#: ../inc/megamenu.php:506 ../inc/megamenu.php:540
+msgid "1 column"
+msgstr ""
+
+#: ../inc/megamenu.php:507 ../inc/megamenu.php:541
+msgid "2 columns"
+msgstr ""
+
+#: ../inc/megamenu.php:508 ../inc/megamenu.php:542
+msgid "3 columns"
+msgstr ""
+
+#: ../inc/megamenu.php:509 ../inc/megamenu.php:543
+msgid "4 columns"
+msgstr ""
+
+#: ../inc/megamenu.php:510
+msgid "5 columns"
+msgstr ""
+
+#: ../inc/megamenu.php:518
+msgid "Enable megamenu"
+msgstr ""
+
+#: ../inc/megamenu.php:522
+msgid "Menu icon"
+msgstr ""
+
+#: ../inc/megamenu.php:537
+msgid "Element width"
+msgstr ""
+
+#: ../inc/megamenu.php:548
+msgid "Act as link or title"
+msgstr ""
+
+#: ../inc/megamenu.php:551 ../option-tree/includes/ot-functions-admin.php:2129
+#: ../option-tree/includes/ot-functions-admin.php:2185
+#: ../plugins/LayerSlider/add.php:203 ../plugins/LayerSlider/add.php:1043
+#: ../plugins/LayerSlider/edit.php:212 ../plugins/LayerSlider/edit.php:1067
+msgid "Link"
+msgstr ""
+
+#: ../inc/megamenu.php:552
+msgid "Title (h4)"
+msgstr ""
+
+#: ../inc/megamenu.php:553
+msgid "Title (h5)"
+msgstr ""
+
+#: ../inc/megamenu.php:554 ../plugins/LayerSlider/add.php:236
+#: ../plugins/LayerSlider/add.php:1076 ../plugins/LayerSlider/edit.php:245
+#: ../plugins/LayerSlider/edit.php:1100
+msgid "Paragraph"
+msgstr ""
+
+#: ../inc/megamenu.php:559
+msgid "Custom html text"
+msgstr ""
+
+#: ../inc/megamenu.php:569
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../inc/megamenu.php:582 ../plugins/LayerSlider/list.php:46
+msgid "Remove"
+msgstr ""
+
+#: ../inc/megamenu.php:583 ../woocommerce/myaccount/my-orders.php:55
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/template-tags.php:39
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:78
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:78
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:90 ../woocommerce/single-product/review.php:27
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../inc/template-tags.php:111 ../plugins/LayerSlider/list.php:28
+msgid "Name"
+msgstr "Имя"
+
+#: ../inc/template-tags.php:112 ../inc/widgets.php:243
+#: ../woocommerce/myaccount/form-login.php:67
+msgid "Email"
+msgstr "E-mail"
+
+#: ../inc/template-tags.php:113
+msgid "Url"
+msgstr "Сайт"
+
+#: ../inc/template-tags.php:115 ../inc/template-tags.php:125
+msgid "Add Comment"
+msgstr "Добавить комментарий"
+
+#: ../inc/template-tags.php:116
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=\"%s\">войти</a>, чтобы оставить комментарий."
+
+#: ../inc/template-tags.php:117
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+msgid "Leave a Comment"
+msgstr "Задать вопрос / Ответить / Оставить отзыв"
+
+#: ../inc/template-tags.php:123
+#, php-format
+msgid "Leave a Reply %s"
+msgstr "Оставить отзыв %s"
+
+#: ../inc/template-tags.php:124
+msgid "Cancel reply"
+msgstr ""
+
+#: ../inc/template-tags.php:141
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../inc/template-tags.php:147
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:212
+msgid "Home"
+msgstr "Главная"
+
+#: ../inc/template-tags.php:225 ../inc/template-tags.php:232
+msgid "You are here:"
+msgstr " "
+
+#: ../inc/template-tags.php:298
+msgid "Posts tagged"
+msgstr "Статьи с меткой"
+
+#: ../inc/template-tags.php:303
+msgid "Articles posted by "
+msgstr "Статьи автора "
+
+#: ../inc/template-tags.php:311 ../woocommerce/shop/breadcrumb.php:204
+msgid "Page"
+msgstr "Страница"
+
+#: ../inc/widgets.php:233
+msgid "Address"
+msgstr "Адрес"
+
+#: ../inc/widgets.php:238
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../inc/widgets.php:294
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../inc/widgets.php:362 ../option-tree/includes/ot-functions-admin.php:3013
+#: ../option-tree/includes/ot-meta-box-api.php:181
+#: ../option-tree/includes/ot-settings-api.php:572
+#: ../plugins/LayerSlider/add.php:460 ../plugins/LayerSlider/add.php:1300
+#: ../plugins/LayerSlider/edit.php:469 ../plugins/LayerSlider/edit.php:1325
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets.php:367
+msgid "User"
+msgstr ""
+
+#: ../inc/widgets.php:372
+msgid "Limit"
+msgstr ""
+
+#: ../inc/tinymce/accordion.php:6 ../inc/tinymce/boxes.php:10
+#: ../inc/tinymce/button.php:10 ../inc/tinymce/columns.php:10
+#: ../inc/tinymce/feature.php:6 ../inc/tinymce/headline.php:6
+#: ../inc/tinymce/iconbox.php:6 ../inc/tinymce/list.php:10
+#: ../inc/tinymce/notice.php:6 ../inc/tinymce/recent.php:6
+#: ../inc/tinymce/skillbox.php:6 ../inc/tinymce/slideshow.php:6
+#: ../inc/tinymce/social.php:10 ../inc/tinymce/tabs.php:6
+#: ../inc/tinymce/team.php:6 ../inc/tinymce/testimonials.php:6
+#: ../inc/tinymce/text.php:6 ../inc/tinymce/toggle.php:6
+#: ../inc/tinymce/tooltip.php:6
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../inc/tinymce/recent.php:149
+#: ../option-tree/includes/ot-functions-option-types.php:1260
+#: ../option-tree/includes/ot-functions-option-types.php:1317
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:83
+msgid "The Colorpicker only allows valid hexadecimal values."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:163
+msgid "Send to OptionTree"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:164
+#: ../option-tree/includes/ot-functions-option-types.php:152
+#: ../option-tree/includes/ot-functions-option-types.php:1749
+msgid "Remove Media"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:165
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:166
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:167
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:168
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:169
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:215
+msgid "Option Tree"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:351
+msgid "General"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:357
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:358
+msgid "Description for the sample text field."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1463
+msgid "Layout activated."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1476
+msgid "Settings updated."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1480
+msgid "Settings could not be saved."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1488
+msgid "Settings Imported."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1492
+msgid "Settings could not be imported."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1499
+msgid "Data Imported."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1503
+msgid "Data could not be imported."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1511
+msgid "Layouts Imported."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1515
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1523
+msgid "Layouts Updated."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:1527
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2078
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2083
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2088
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2118
+#: ../option-tree/includes/ot-functions-admin.php:2179
+#: ../plugins/LayerSlider/add.php:226 ../plugins/LayerSlider/add.php:1066
+#: ../plugins/LayerSlider/edit.php:235 ../plugins/LayerSlider/edit.php:1090
+msgid "Image"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2660
+msgid "edit"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2663
+#: ../option-tree/includes/ot-functions-admin.php:2664
+#: ../option-tree/includes/ot-functions-admin.php:2718
+#: ../option-tree/includes/ot-functions-admin.php:2719
+#: ../option-tree/includes/ot-functions-admin.php:2854
+#: ../option-tree/includes/ot-functions-admin.php:2855
+#: ../option-tree/includes/ot-functions-admin.php:2920
+#: ../option-tree/includes/ot-functions-admin.php:2921
+#: ../option-tree/includes/ot-functions-admin.php:2979
+#: ../option-tree/includes/ot-functions-admin.php:2980
+#: ../option-tree/includes/ot-functions-admin.php:3048
+#: ../option-tree/includes/ot-functions-admin.php:3049
+msgid "Delete"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2670
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2678
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2725
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2733
+#: ../option-tree/includes/ot-functions-admin.php:2935
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2741
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2752
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2760
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2765
+msgid "Add Choice"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2771
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2776
+#: ../option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2782
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2790
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2798
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2806
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2814
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2861
+#: ../option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2871
+msgid "Value"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2881
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2927
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2943
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2974
+msgid "Layout"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:2976
+#: ../option-tree/includes/ot-functions-admin.php:2977
+msgid "Activate"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-admin.php:3142
+msgid "New Layout"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:32
+#: ../plugins/LayerSlider/add.php:456 ../plugins/LayerSlider/add.php:1296
+#: ../plugins/LayerSlider/edit.php:465 ../plugins/LayerSlider/edit.php:1321
+msgid "ID"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:35
+msgid "Type"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:49
+#: ../option-tree/includes/ot-ui-admin.php:30
+#: ../option-tree/includes/ot-ui-admin.php:31
+#: ../option-tree/includes/ot-ui-admin.php:74
+#: ../option-tree/includes/ot-ui-admin.php:98
+msgid "Settings"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:98
+#: ../plugins/LayerSlider/add.php:32 ../plugins/LayerSlider/add.php:872
+#: ../plugins/LayerSlider/edit.php:41 ../plugins/LayerSlider/edit.php:892
+msgid "Background"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:99
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with "
+"<code>ot_get_option()</code>. Background has filters that allow you to "
+"change the defaults. For example, you can filter on "
+"<code>ot_recognized_background_repeat</code>, "
+"<code>ot_recognized_background_attachment</code>, and "
+"<code>ot_recognized_background_position</code>. These filters allow you to "
+"fine tune the select lists for your specific CSS needs."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:101
+msgid "Category Select"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:102
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:104
+msgid "Category Checkbox"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:105
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:107
+msgid "Checkbox"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:108
+msgid ""
+"The Checkbox option type is fairly self explanatory. Typically used to ask "
+"questions. For example, \"Do you want to activate asynchronous Google "
+"analytics?\" would be a single checkbox with a value of yes. You could have "
+"more complex usages but the idea is that you can easily grab the value of "
+"the checkbox and use it in you theme. In this situation you would test if "
+"the checkbox has a value and execute a block of code if it does and do "
+"nothing if it doesn't."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:110
+msgid "Colorpicker"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:111
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:113
+msgid "CSS"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:114
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named <code>dynamic.css</code> at "
+"the root level of your theme and change permissions using chmod so the "
+"server can write to the file. I have had the most success setting this "
+"single file to 0777 but feel free to play around with permissions until "
+"everything is working. A good starting point is 0666. When the server can "
+"save to the file CSS will automatically be updated each time you save your "
+"theme options."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:116
+msgid ""
+"An example of the CSS option type: This assumes you have an option with the "
+"ID of <code>custom_background_css</code> which will display the saved values "
+"for that option."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:118
+msgid "Input"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:124
+msgid "Output"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:132
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:133
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"<code>post_type</code> when created in the settings. For some reason "
+"<code>any</code> does not work correctly and will looked into in future "
+"version."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:135
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:136
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid <code>post_type</code> when created in the settings. For "
+"some reason <code>any</code> does not work correctly and will looked into in "
+"future version."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:138
+msgid "List Item"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:139
+msgid ""
+"The list Item replaced the old Slider option type. It allows for a great "
+"deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:141
+msgid "Measurement"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:142
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are <code>px</code>, <code>"
+"%</code>, <code>em</code>, <code>pt</code>. However, you can change them "
+"with the <code>ot_measurement_unit_types</code> filter."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:144
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:157
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:172
+msgid "Page Select"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:173
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:175
+msgid "Page Checkbox"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:176
+msgid ""
+"The Page Select option type displays a list of page IDs. It allows the user "
+"to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:178
+msgid "Post Select"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:179
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:181
+msgid "Post Checkbox"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:182
+msgid ""
+"The Post Select option type displays a list of post IDs. It allows the user "
+"to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:184
+msgid "Radio"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:185
+msgid ""
+"The Radio option type could ask a question. For example, \"Do you want to "
+"activate the custom navigation?\" could require a yes or no answer with a "
+"radio option. In this situation you would test if the radio has a value of "
+"'yes' and execute a block of code, or if it's 'no' execute a different block "
+"of code."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:187
+msgid "Radio Image"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:188
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using <code>ot_radio_images</code>. As well, you can "
+"add your own custom images using the choices array."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:190
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:214
+msgid "Select"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:215
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:217
+msgid "Slider"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:218
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:220
+msgid "Tag Checkbox"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:221
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:223
+msgid "Tag Select"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:224
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:226
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:227
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:229
+msgid "Taxonomy Select"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:230
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:232
+msgid "Text (Input)"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:233
+msgid ""
+"The Text option type would be used to save a string value. For example, a "
+"link to feedburner, your Twitter username, or Google Analytics ID are all "
+"good candidates. Any optional or required text that is of reasonably short "
+"character length."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:235
+msgid "Textarea"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:236
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme. The new Textarea has a WYSIWYG editor that can be "
+"filtered to change the buttons shown. For example, you can filter on "
+"<code>wpautop</code>, <code>media_buttons</code>, <code>tinymce</code>, and "
+"<code>quicktags</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:238
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:240
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:253
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:266
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:279
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:294
+msgid "Textarea Simple"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:295
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The new Textarea Simple does not have a WYSIWYG "
+"editor. But you can still filter on <code>wpautop</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:297
+msgid ""
+"This example tells WordPress to execute the <code>wpautop</code> filter on "
+"the line breaks. The default is <code>false</code> which means it does not "
+"wraps line breaks with an HTML <code>p</code> tag. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:310
+msgid "Textblock"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:311
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML on your Theme Options page but has no "
+"title above the text block. You can then use the Textblock to add a more "
+"detailed set of instruction on how the options are used in your theme. You "
+"would NEVER use this in your themes template files as it does not save a "
+"value."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:313
+msgid "Textblock Titled"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:314
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML on your Theme Options page and has a "
+"title above the text block. You can then use the Textblock Titled to add a "
+"more detailed set of instruction on how the options are used in your theme. "
+"You would NEVER use this in your themes template files as it does not save a "
+"value."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:316
+msgid "Typography"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:317
+msgid ""
+"The Typography option type is for adding typographic styles to your theme "
+"either dynamically via the CSS option type below or manually with "
+"<code>ot_get_option()</code>. Typography has filters that allow you to "
+"change the defaults. For example, you can filter on "
+"<code>ot_recognized_font_styles</code>, <code>ot_recognized_font_weights</"
+"code>, <code>ot_recognized_font_variants</code>, and "
+"<code>ot_recognized_font_families</code>. These filters allow you to fine "
+"tune the select lists for your specific CSS needs. The most important one "
+"though is <code>ot_recognized_font_families</code> as you can add your "
+"Google Fonts to create custom font stacks."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:319
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:336
+msgid "Upload"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:337
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"Send to OptionTree\" "
+"button in order to populate the input with the URI of that media. There is "
+"one caveat of this feature. If you import the theme options and have "
+"uploaded media on one site the old URI will not reflect the URI of your new "
+"site. You'll have to re-upload or FTP any media to your new server and "
+"change the URIs if necessary."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:369
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:371
+#: ../option-tree/includes/ot-functions-docs-page.php:421
+msgid "Usage"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:375
+#: ../option-tree/includes/ot-functions-docs-page.php:425
+msgid "Parameters"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:379
+#: ../option-tree/includes/ot-functions-docs-page.php:383
+#: ../option-tree/includes/ot-functions-docs-page.php:429
+msgid "string"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:379
+#: ../option-tree/includes/ot-functions-docs-page.php:429
+msgid "required"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:379
+msgid "Enter the options unique identifier."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:379
+#: ../option-tree/includes/ot-functions-docs-page.php:429
+msgid "Default:"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:379
+#: ../option-tree/includes/ot-functions-docs-page.php:383
+#: ../option-tree/includes/ot-functions-docs-page.php:429
+#: ../option-tree/includes/ot-functions-docs-page.php:433
+msgid "None"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:383
+#: ../option-tree/includes/ot-functions-docs-page.php:433
+#: ../option-tree/includes/ot-functions-docs-page.php:437
+#: ../option-tree/includes/ot-functions-docs-page.php:441
+#: ../option-tree/includes/ot-functions-docs-page.php:445
+msgid "optional"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:383
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:383
+#: ../option-tree/includes/ot-functions-docs-page.php:433
+#: ../option-tree/includes/ot-functions-docs-page.php:437
+#: ../option-tree/includes/ot-functions-docs-page.php:441
+#: ../option-tree/includes/ot-functions-docs-page.php:445
+msgid "Default"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:413
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:415
+msgid "Use"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:415
+msgid "instead"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:419
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:429
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:433
+msgid "array"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:433
+msgid "Used to cut down on database queries in template files."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:437
+#: ../option-tree/includes/ot-functions-docs-page.php:441
+msgid "boolean"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:437
+msgid "Echo the output."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:441
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:445
+msgid "integer"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:445
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:473
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:475
+msgid "String Examples"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:477
+msgid "Returns the value of <code>test_input</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:483
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:489
+msgid "Array Examples"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:491
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:511
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:537
+msgid "This example displays a very basic slider loop."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:582
+msgid "It's Super Simple"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:584
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:586
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:588
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:590
+msgid "For Developers"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:593
+#: ../option-tree/includes/ot-functions-docs-page.php:623
+msgid "Creating a Layout"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:595
+#: ../option-tree/includes/ot-functions-docs-page.php:602
+#: ../option-tree/includes/ot-functions-docs-page.php:608
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:596
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:597
+#: ../option-tree/includes/ot-functions-docs-page.php:627
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:600
+#: ../option-tree/includes/ot-functions-docs-page.php:630
+msgid "Activating a Layout"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:603
+msgid "Click on the activate layout button in the actions list."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:606
+#: ../option-tree/includes/ot-functions-docs-page.php:636
+msgid "Deleting a Layout"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:609
+msgid "Click on the delete layout button in the actions list."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:612
+#: ../option-tree/includes/ot-functions-docs-page.php:641
+msgid "Edit Layout Data"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:614
+#: ../option-tree/includes/ot-functions-docs-page.php:625
+#: ../option-tree/includes/ot-functions-docs-page.php:632
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:615
+#: ../option-tree/includes/ot-functions-docs-page.php:644
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:616
+#: ../option-tree/includes/ot-functions-docs-page.php:645
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:617
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:620
+msgid "End-Users Mode"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:626
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:633
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:638
+msgid "End-Users mode does not allow deleting layouts."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:643
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:674
+#: ../option-tree/includes/ot-functions-docs-page.php:756
+msgid "How-to-guide"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:676
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:678
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:680
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:682
+msgid "Create and include your custom meta boxes file."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:684
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:685
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:686
+#: ../option-tree/includes/ot-functions-docs-page.php:797
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:696
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:758
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:760
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:762
+msgid ""
+"Download the latest version of <a href=\"http://wordpress.org/extend/plugins/"
+"option-tree/\" rel=\"nofollow\" target=\"_blank\">OptionTree</a>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:763
+msgid "Unpack the ZIP archive."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:764
+msgid ""
+"Put the <code>option-tree</code> directory in the root of your theme. For "
+"example, the server path would be <code>/wp-content/themes/theme-name/option-"
+"tree/</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:765
+msgid ""
+"Add the following code to the beginning of your <code>functions.php</code>."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:791
+msgid ""
+"It's that simple! You now have OptionTree built into your theme and anytime "
+"there's an update to the plugin you just replace the old version and you're "
+"good to go.."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:793
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:795
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:796
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:807
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-docs-page.php:810
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:107
+msgid "background-repeat"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:116
+msgid "background-attachment"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:125
+msgid "background-position"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:140
+#: ../option-tree/includes/ot-functions-option-types.php:1737
+msgid "Add Media"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:210
+#: ../option-tree/includes/ot-functions-option-types.php:264
+msgid "No Categories Found"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:259
+#: ../option-tree/includes/ot-functions-option-types.php:519
+#: ../option-tree/includes/ot-functions-option-types.php:758
+#: ../option-tree/includes/ot-functions-option-types.php:942
+#: ../option-tree/includes/ot-functions-option-types.php:1196
+#: ../option-tree/includes/ot-functions-option-types.php:1312
+msgid "Choose One"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:599
+#: ../option-tree/includes/ot-functions-option-types.php:838
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:709
+#: ../option-tree/includes/ot-functions-option-types.php:764
+msgid "No Pages Found"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-option-types.php:1147
+#: ../option-tree/includes/ot-functions-option-types.php:1201
+msgid "No Tags Found"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:94
+#: ../option-tree/includes/ot-functions-settings-page.php:133
+#: ../option-tree/includes/ot-ui-theme-options.php:42
+msgid "Save Changes"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:170
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the blue "
+"upload button. A popup window will appear, upload the XML file and click "
+"\"Send to OptionTree\". The file URL should be in the upload input, if it is "
+"click \"Import XML\"."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional <code>theme-options.php</code> "
+"file by clicking this button. For more information on how to use this file "
+"read the theme mode %s. Remember, you should always check the file for "
+"errors before including it in your theme."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:373
+msgid "Export Settings File"
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:403
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:439
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:475
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:517
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:518
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: ../option-tree/includes/ot-functions-settings-page.php:557
+msgid "Save Layouts"
+msgstr ""
+
+#: ../option-tree/includes/ot-settings-api.php:346
+msgid "Reset Options"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:19
+#: ../option-tree/includes/ot-ui-admin.php:20
+msgid "OptionTree"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:36
+#: ../option-tree/includes/ot-ui-admin.php:131
+#: ../option-tree/includes/ot-ui-theme-options.php:40
+msgid "Theme Options updated."
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:37
+#: ../option-tree/includes/ot-ui-admin.php:132
+#: ../option-tree/includes/ot-ui-theme-options.php:41
+msgid "Theme Options reset."
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:38
+#: ../option-tree/includes/ot-ui-admin.php:133
+msgid "Save Settings"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:44
+msgid "Theme Options UI"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:48
+#: ../plugins/LayerSlider/list.php:66
+msgid "Import"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:52
+msgid "Export"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:56
+#: ../option-tree/includes/ot-ui-admin.php:86
+#: ../option-tree/includes/ot-ui-admin.php:110
+msgid "Layouts"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:62
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:68
+msgid "Settings XML"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:80
+#: ../option-tree/includes/ot-ui-admin.php:104
+#: ../option-tree/includes/ot-ui-theme-options.php:34
+#: ../option-tree/includes/ot-ui-theme-options.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:92
+msgid "Settings PHP File"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:116
+msgid "Add, Activate, & Remove Layouts"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:125
+#: ../option-tree/includes/ot-ui-admin.php:126
+#: ../plugins/LayerSlider/add.php:494 ../plugins/LayerSlider/edit.php:503
+msgid "Documentation"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:139
+msgid "Creating Options"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:143
+msgid "Option Types"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:147
+msgid "Function References"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:151
+#: ../option-tree/includes/ot-ui-admin.php:193
+msgid "Theme Mode"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:155
+#: ../option-tree/includes/ot-ui-admin.php:199
+msgid "Meta Boxes"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:159
+msgid "Code Examples"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:163
+msgid "Layouts Overview"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:169
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:175
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:181
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:187
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:205
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: ../option-tree/includes/ot-ui-admin.php:211
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:23 ../plugins/LayerSlider/add.php:863
+#: ../plugins/LayerSlider/edit.php:32 ../plugins/LayerSlider/edit.php:883
+msgid "Layer Options"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:24 ../plugins/LayerSlider/add.php:864
+#: ../plugins/LayerSlider/edit.php:33 ../plugins/LayerSlider/edit.php:884
+msgid "Duplicate this layer"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:31 ../plugins/LayerSlider/add.php:871
+#: ../plugins/LayerSlider/edit.php:40 ../plugins/LayerSlider/edit.php:891
+msgid "Slide options"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:39 ../plugins/LayerSlider/add.php:293
+#: ../plugins/LayerSlider/add.php:349 ../plugins/LayerSlider/add.php:879
+#: ../plugins/LayerSlider/add.php:1133 ../plugins/LayerSlider/add.php:1189
+#: ../plugins/LayerSlider/edit.php:48 ../plugins/LayerSlider/edit.php:302
+#: ../plugins/LayerSlider/edit.php:358 ../plugins/LayerSlider/edit.php:899
+#: ../plugins/LayerSlider/edit.php:1158 ../plugins/LayerSlider/edit.php:1214
+msgid "Direction"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:42 ../plugins/LayerSlider/add.php:298
+#: ../plugins/LayerSlider/add.php:354 ../plugins/LayerSlider/add.php:882
+#: ../plugins/LayerSlider/add.php:1138 ../plugins/LayerSlider/add.php:1194
+#: ../plugins/LayerSlider/edit.php:51 ../plugins/LayerSlider/edit.php:307
+#: ../plugins/LayerSlider/edit.php:363 ../plugins/LayerSlider/edit.php:902
+#: ../plugins/LayerSlider/edit.php:1163
+msgid "top"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:43 ../plugins/LayerSlider/add.php:299
+#: ../plugins/LayerSlider/add.php:355 ../plugins/LayerSlider/add.php:883
+#: ../plugins/LayerSlider/add.php:1139 ../plugins/LayerSlider/add.php:1195
+#: ../plugins/LayerSlider/edit.php:52 ../plugins/LayerSlider/edit.php:308
+#: ../plugins/LayerSlider/edit.php:364 ../plugins/LayerSlider/edit.php:903
+#: ../plugins/LayerSlider/edit.php:1164
+msgid "right"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:44 ../plugins/LayerSlider/add.php:300
+#: ../plugins/LayerSlider/add.php:356 ../plugins/LayerSlider/add.php:884
+#: ../plugins/LayerSlider/add.php:1140 ../plugins/LayerSlider/add.php:1196
+#: ../plugins/LayerSlider/edit.php:53 ../plugins/LayerSlider/edit.php:309
+#: ../plugins/LayerSlider/edit.php:365 ../plugins/LayerSlider/edit.php:904
+#: ../plugins/LayerSlider/edit.php:1165
+msgid "bottom"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:45 ../plugins/LayerSlider/add.php:301
+#: ../plugins/LayerSlider/add.php:357 ../plugins/LayerSlider/add.php:885
+#: ../plugins/LayerSlider/add.php:1141 ../plugins/LayerSlider/add.php:1197
+#: ../plugins/LayerSlider/edit.php:54 ../plugins/LayerSlider/edit.php:310
+#: ../plugins/LayerSlider/edit.php:366 ../plugins/LayerSlider/edit.php:905
+#: ../plugins/LayerSlider/edit.php:1166
+msgid "left"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:48 ../plugins/LayerSlider/add.php:92
+#: ../plugins/LayerSlider/add.php:136 ../plugins/LayerSlider/add.php:343
+#: ../plugins/LayerSlider/add.php:399 ../plugins/LayerSlider/add.php:888
+#: ../plugins/LayerSlider/add.php:932 ../plugins/LayerSlider/add.php:976
+#: ../plugins/LayerSlider/add.php:1183 ../plugins/LayerSlider/add.php:1239
+#: ../plugins/LayerSlider/edit.php:57 ../plugins/LayerSlider/edit.php:101
+#: ../plugins/LayerSlider/edit.php:145 ../plugins/LayerSlider/edit.php:352
+#: ../plugins/LayerSlider/edit.php:408 ../plugins/LayerSlider/edit.php:908
+#: ../plugins/LayerSlider/edit.php:952 ../plugins/LayerSlider/edit.php:996
+#: ../plugins/LayerSlider/edit.php:1208 ../plugins/LayerSlider/edit.php:1264
+msgid "Delay"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:52 ../plugins/LayerSlider/add.php:292
+#: ../plugins/LayerSlider/add.php:892 ../plugins/LayerSlider/add.php:1132
+#: ../plugins/LayerSlider/edit.php:61 ../plugins/LayerSlider/edit.php:301
+#: ../plugins/LayerSlider/edit.php:912 ../plugins/LayerSlider/edit.php:1157
+msgid "Slide in animation"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:53 ../plugins/LayerSlider/add.php:97
+#: ../plugins/LayerSlider/add.php:304 ../plugins/LayerSlider/add.php:360
+#: ../plugins/LayerSlider/add.php:893 ../plugins/LayerSlider/add.php:937
+#: ../plugins/LayerSlider/add.php:1144 ../plugins/LayerSlider/add.php:1200
+#: ../plugins/LayerSlider/edit.php:62 ../plugins/LayerSlider/edit.php:106
+#: ../plugins/LayerSlider/edit.php:313 ../plugins/LayerSlider/edit.php:369
+#: ../plugins/LayerSlider/edit.php:913 ../plugins/LayerSlider/edit.php:957
+#: ../plugins/LayerSlider/edit.php:1169 ../plugins/LayerSlider/edit.php:1225
+msgid "Duration"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:55 ../plugins/LayerSlider/add.php:99
+#: ../plugins/LayerSlider/add.php:306 ../plugins/LayerSlider/add.php:362
+#: ../plugins/LayerSlider/add.php:895 ../plugins/LayerSlider/add.php:939
+#: ../plugins/LayerSlider/add.php:1146 ../plugins/LayerSlider/add.php:1202
+#: ../plugins/LayerSlider/edit.php:64 ../plugins/LayerSlider/edit.php:108
+#: ../plugins/LayerSlider/edit.php:315 ../plugins/LayerSlider/edit.php:371
+#: ../plugins/LayerSlider/edit.php:915 ../plugins/LayerSlider/edit.php:959
+#: ../plugins/LayerSlider/edit.php:1171 ../plugins/LayerSlider/edit.php:1227
+msgid "Easing"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:96 ../plugins/LayerSlider/add.php:348
+#: ../plugins/LayerSlider/add.php:936 ../plugins/LayerSlider/add.php:1188
+#: ../plugins/LayerSlider/edit.php:105 ../plugins/LayerSlider/edit.php:357
+#: ../plugins/LayerSlider/edit.php:956 ../plugins/LayerSlider/edit.php:1213
+msgid "Slide out animation"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:140 ../plugins/LayerSlider/add.php:781
+#: ../plugins/LayerSlider/add.php:980 ../plugins/LayerSlider/edit.php:149
+#: ../plugins/LayerSlider/edit.php:795 ../plugins/LayerSlider/edit.php:1000
+msgid "Misc"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:141 ../plugins/LayerSlider/add.php:981
+#: ../plugins/LayerSlider/edit.php:150 ../plugins/LayerSlider/edit.php:1001
+msgid "#ID"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:143 ../plugins/LayerSlider/add.php:983
+#: ../plugins/LayerSlider/edit.php:152 ../plugins/LayerSlider/edit.php:1003
+msgid "Deeplink"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:145 ../plugins/LayerSlider/add.php:409
+#: ../plugins/LayerSlider/add.php:985 ../plugins/LayerSlider/add.php:1249
+#: ../plugins/LayerSlider/edit.php:154 ../plugins/LayerSlider/edit.php:418
+#: ../plugins/LayerSlider/edit.php:1005 ../plugins/LayerSlider/edit.php:1274
+msgid "Hidden"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:149 ../plugins/LayerSlider/add.php:710
+#: ../plugins/LayerSlider/add.php:989 ../plugins/LayerSlider/edit.php:158
+#: ../plugins/LayerSlider/edit.php:723 ../plugins/LayerSlider/edit.php:1009
+msgid "Navigation"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:150 ../plugins/LayerSlider/add.php:990
+#: ../plugins/LayerSlider/edit.php:159 ../plugins/LayerSlider/edit.php:1010
+msgid "Thumbnail"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:165 ../plugins/LayerSlider/add.php:1005
+#: ../plugins/LayerSlider/edit.php:174 ../plugins/LayerSlider/edit.php:1025
+msgid "Preview"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:177 ../plugins/LayerSlider/add.php:1017
+#: ../plugins/LayerSlider/edit.php:186 ../plugins/LayerSlider/edit.php:1037
+msgid "Enter Preview"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:188 ../plugins/LayerSlider/add.php:1028
+#: ../plugins/LayerSlider/edit.php:197 ../plugins/LayerSlider/edit.php:1048
+msgid "Sublayers"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:201 ../plugins/LayerSlider/add.php:519
+#: ../plugins/LayerSlider/add.php:1041 ../plugins/LayerSlider/edit.php:210
+#: ../plugins/LayerSlider/edit.php:528 ../plugins/LayerSlider/edit.php:1065
+msgid "Basic"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:202 ../plugins/LayerSlider/add.php:1042
+#: ../plugins/LayerSlider/edit.php:211 ../plugins/LayerSlider/edit.php:1066
+msgid "Options"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:204 ../plugins/LayerSlider/add.php:1044
+#: ../plugins/LayerSlider/edit.php:213 ../plugins/LayerSlider/edit.php:1068
+msgid "Style"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:205 ../plugins/LayerSlider/add.php:455
+#: ../plugins/LayerSlider/add.php:1045 ../plugins/LayerSlider/add.php:1295
+#: ../plugins/LayerSlider/edit.php:214 ../plugins/LayerSlider/edit.php:464
+#: ../plugins/LayerSlider/edit.php:1069 ../plugins/LayerSlider/edit.php:1320
+msgid "Attributes"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:206 ../plugins/LayerSlider/add.php:1046
+#: ../plugins/LayerSlider/edit.php:215
+msgid "Remove this sublayer"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:231 ../plugins/LayerSlider/add.php:1071
+#: ../plugins/LayerSlider/edit.php:240 ../plugins/LayerSlider/edit.php:1095
+msgid "Div"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:241 ../plugins/LayerSlider/add.php:1081
+#: ../plugins/LayerSlider/edit.php:250 ../plugins/LayerSlider/edit.php:1105
+msgid "Span"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:246 ../plugins/LayerSlider/add.php:1086
+#: ../plugins/LayerSlider/edit.php:255 ../plugins/LayerSlider/edit.php:1110
+msgid "H1"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:251 ../plugins/LayerSlider/add.php:1091
+#: ../plugins/LayerSlider/edit.php:260 ../plugins/LayerSlider/edit.php:1115
+msgid "H2"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:256 ../plugins/LayerSlider/add.php:1096
+#: ../plugins/LayerSlider/edit.php:265 ../plugins/LayerSlider/edit.php:1120
+msgid "H3"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:261 ../plugins/LayerSlider/add.php:1101
+#: ../plugins/LayerSlider/edit.php:270 ../plugins/LayerSlider/edit.php:1125
+msgid "H4"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:266 ../plugins/LayerSlider/add.php:1106
+#: ../plugins/LayerSlider/edit.php:275 ../plugins/LayerSlider/edit.php:1130
+msgid "H5"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:271 ../plugins/LayerSlider/add.php:1111
+#: ../plugins/LayerSlider/edit.php:280 ../plugins/LayerSlider/edit.php:1135
+msgid "H6"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:279 ../plugins/LayerSlider/add.php:1119
+#: ../plugins/LayerSlider/edit.php:288 ../plugins/LayerSlider/edit.php:1144
+msgid ""
+"Click into this text field to open WordPress Media Library where you can "
+"upload new images or select previously used ones."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:284 ../plugins/LayerSlider/add.php:1124
+#: ../plugins/LayerSlider/edit.php:293 ../plugins/LayerSlider/edit.php:1149
+msgid "Custom HTML content"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:296 ../plugins/LayerSlider/add.php:352
+#: ../plugins/LayerSlider/add.php:619 ../plugins/LayerSlider/add.php:1136
+#: ../plugins/LayerSlider/add.php:1192 ../plugins/LayerSlider/edit.php:305
+#: ../plugins/LayerSlider/edit.php:361 ../plugins/LayerSlider/edit.php:1161
+msgid "auto"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:297 ../plugins/LayerSlider/add.php:353
+#: ../plugins/LayerSlider/add.php:1137 ../plugins/LayerSlider/add.php:1193
+#: ../plugins/LayerSlider/edit.php:306 ../plugins/LayerSlider/edit.php:362
+#: ../plugins/LayerSlider/edit.php:1162
+msgid "fade"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:404 ../plugins/LayerSlider/add.php:1244
+#: ../plugins/LayerSlider/edit.php:413 ../plugins/LayerSlider/edit.php:1269
+msgid "Other options"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:405 ../plugins/LayerSlider/add.php:1245
+#: ../plugins/LayerSlider/edit.php:414 ../plugins/LayerSlider/edit.php:1270
+msgid "P. Level"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:407 ../plugins/LayerSlider/add.php:1247
+#: ../plugins/LayerSlider/edit.php:416 ../plugins/LayerSlider/edit.php:1272
+msgid "Show until"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:411 ../plugins/LayerSlider/add.php:1251
+#: ../plugins/LayerSlider/edit.php:420 ../plugins/LayerSlider/edit.php:1276
+msgid "Duplicate this sublayer"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:435 ../plugins/LayerSlider/add.php:1275
+#: ../plugins/LayerSlider/edit.php:444 ../plugins/LayerSlider/edit.php:1300
+msgid "Basic style settings"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:436 ../plugins/LayerSlider/add.php:1276
+#: ../plugins/LayerSlider/edit.php:445 ../plugins/LayerSlider/edit.php:1301
+msgid "Top"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:438 ../plugins/LayerSlider/add.php:1278
+#: ../plugins/LayerSlider/edit.php:447 ../plugins/LayerSlider/edit.php:1303
+msgid "Left"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:440 ../plugins/LayerSlider/add.php:1280
+#: ../plugins/LayerSlider/edit.php:449 ../plugins/LayerSlider/edit.php:1305
+msgid "Word-wrap"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:444 ../plugins/LayerSlider/add.php:1284
+#: ../plugins/LayerSlider/edit.php:453 ../plugins/LayerSlider/edit.php:1309
+msgid "Custom style settings"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:445 ../plugins/LayerSlider/add.php:1285
+#: ../plugins/LayerSlider/edit.php:454 ../plugins/LayerSlider/edit.php:1310
+msgid "Custom styles"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:458 ../plugins/LayerSlider/add.php:1298
+#: ../plugins/LayerSlider/edit.php:467 ../plugins/LayerSlider/edit.php:1323
+msgid "Classes"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:462 ../plugins/LayerSlider/add.php:1302
+#: ../plugins/LayerSlider/edit.php:471 ../plugins/LayerSlider/edit.php:1327
+msgid "Alt"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:474 ../plugins/LayerSlider/add.php:1314
+#: ../plugins/LayerSlider/edit.php:483 ../plugins/LayerSlider/edit.php:1341
+msgid "Add new sublayer"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:485
+msgid "Add new LayerSlider"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:486 ../plugins/LayerSlider/edit.php:495
+msgid "Back to the list"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:491 ../plugins/LayerSlider/add.php:513
+#: ../plugins/LayerSlider/edit.php:500 ../plugins/LayerSlider/edit.php:522
+msgid "Global Settings"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:492 ../plugins/LayerSlider/edit.php:501
+msgid "Layers"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:493 ../plugins/LayerSlider/edit.php:502
+msgid "Event Callbacks"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:507 ../plugins/LayerSlider/edit.php:516
+msgid "Type your slider name here"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:525
+msgid "Width"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:527 ../plugins/LayerSlider/edit.php:536
+msgid ""
+"The slider width in pixels. For compatibility reasons, we still support "
+"percentage values, but for responsive layout, you should use pixels."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:530
+msgid "Height"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:532 ../plugins/LayerSlider/edit.php:541
+msgid "The slider height in pixels."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:535 ../plugins/LayerSlider/edit.php:544
+msgid "Responsive"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:537 ../plugins/LayerSlider/edit.php:546
+msgid "Enable this option to turn LayerSlider into a responsive slider."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:540 ../plugins/LayerSlider/edit.php:549
+msgid "Full-width slider"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:542 ../plugins/LayerSlider/edit.php:551
+msgid ""
+"When you are using a responsiveness or percentage dimensions for the slider, "
+"it will respond the parent element size changes. With tis option you can "
+"bypass this behaviour and LayerSlider will be a full-width slider."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:545 ../plugins/LayerSlider/edit.php:554
+msgid "Responsive under"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:547 ../plugins/LayerSlider/edit.php:556
+msgid ""
+"You can force the slider to change automatically into responsive mode but "
+"only if the slider width is smaller than responsiveUnder pixels. It can be "
+"used if you need a full-width slider with fixed height but you also need it "
+"to be responsive if the browser is smaller... Important! If you enter a "
+"value higher than 0, the normal responsive mode will be switched off "
+"automatically!"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:550 ../plugins/LayerSlider/edit.php:559
+msgid "Sublayer Container"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:552 ../plugins/LayerSlider/edit.php:561
+msgid ""
+"This feature is needed if you are using a full-width slider and you need "
+"that your sublayers forced to positioning inside a centered custom width "
+"container. Just specify the width of this container in pixels! Note, that "
+"this feature is working only with pixel-positioned sublayers, but of course "
+"if you add left: 50% position to a sublayer it will be positioned "
+"horizontally to the center, as before!"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:559 ../plugins/LayerSlider/edit.php:568
+msgid "Slideshow"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:565 ../plugins/LayerSlider/edit.php:574
+msgid "Automatically start slideshow"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:567 ../plugins/LayerSlider/edit.php:576
+msgid "If enabled, slideshow will automatically start after loading the page."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:570 ../plugins/LayerSlider/edit.php:579
+msgid "Pause on hover"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:572 ../plugins/LayerSlider/edit.php:581
+msgid "Slideshow will pause when mouse pointer is over LayerSlider."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:575 ../plugins/LayerSlider/edit.php:584
+msgid "First layer"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:577 ../plugins/LayerSlider/edit.php:586
+msgid ""
+"LayerSlider will start with this layer (you can type the word <i>random</i> "
+"if you want the slider to start with a random layer)."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:580 ../plugins/LayerSlider/edit.php:589
+msgid "Animate first layer"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:582 ../plugins/LayerSlider/edit.php:591
+msgid "If enabled, first layer will animate (slide in) instead of fading."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:585 ../plugins/LayerSlider/edit.php:594
+msgid "Random slideshow"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:587 ../plugins/LayerSlider/edit.php:596
+msgid ""
+"LayerSlider will change to a random layer instead of changing to the next / "
+"prev layer. Note that 'loops' feature won't work with this option."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:590 ../plugins/LayerSlider/edit.php:599
+msgid "Two way slideshow"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:592 ../plugins/LayerSlider/edit.php:601
+msgid "If enabled, slideshow will go backwards if you click the prev button."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:595 ../plugins/LayerSlider/edit.php:604
+msgid "Loops"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:603 ../plugins/LayerSlider/edit.php:616
+msgid ""
+"Number of loops if automatically start slideshow is enabled (0 means "
+"infinite!)"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:606 ../plugins/LayerSlider/edit.php:619
+msgid "Force the number of loops"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:608 ../plugins/LayerSlider/edit.php:621
+msgid ""
+"If enabled, the slider will always stop at the given number of loops even if "
+"the user restarts the slideshow."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:611 ../plugins/LayerSlider/edit.php:624
+msgid "Automatically play videos"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:613 ../plugins/LayerSlider/edit.php:626
+msgid ""
+"If enabled, the slider will automatically play youtube and vimeo videos."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:616 ../plugins/LayerSlider/edit.php:629
+msgid "Automatically pause slideshow"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:620
+msgid "enabled"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:621 ../plugins/LayerSlider/add.php:744
+msgid "disabled"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:624 ../plugins/LayerSlider/edit.php:637
+msgid ""
+"If you enabled automatically play videos, the auto value means that the "
+"slideshow will stop UNTIL the video is playing and after that it continues. "
+"Enabled means slideshow will stop and it won't continue after video is "
+"played."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:627 ../plugins/LayerSlider/edit.php:640
+msgid "Youtube preview"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:630 ../plugins/LayerSlider/edit.php:643
+msgid "Maximum quality"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:631 ../plugins/LayerSlider/edit.php:644
+msgid "High quality"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:632 ../plugins/LayerSlider/edit.php:645
+msgid "Medium quality"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:633 ../plugins/LayerSlider/edit.php:646
+msgid "Default quality"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:636 ../plugins/LayerSlider/edit.php:649
+msgid ""
+"Default thumbnail picture of YouTube videos. Note, that Maximum quaility is "
+"not available to all (not HD) videos."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:639 ../plugins/LayerSlider/edit.php:652
+msgid "Keyboard navigation"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:641 ../plugins/LayerSlider/edit.php:654
+msgid "You can navigate with the left and right arrow keys."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:644 ../plugins/LayerSlider/edit.php:657
+msgid "Touch navigation"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:646 ../plugins/LayerSlider/edit.php:659
+msgid "Touch-control (on mobile devices)."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:653 ../plugins/LayerSlider/edit.php:666
+msgid "Appearance"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:659 ../plugins/LayerSlider/edit.php:672
+msgid "Skin"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:673 ../plugins/LayerSlider/edit.php:686
+msgid ""
+"You can change the skin of the slider. The 'noskin' skin is a border- and "
+"buttonless skin. Your custom skins will appear in the list when you create "
+"their folders as well."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:676 ../plugins/LayerSlider/edit.php:689
+msgid "Background color"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:683 ../plugins/LayerSlider/edit.php:696
+msgid ""
+"Background color of LayerSlider. You can use all CSS methods, like hexa "
+"colors, rgb(r,g,b) method, color names, etc. Note, that background sublayers "
+"are covering the background."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:686 ../plugins/LayerSlider/edit.php:699
+msgid "Background image"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:693 ../plugins/LayerSlider/edit.php:706
+msgid ""
+"Background image of LayerSlider. This will be a fixed background image of "
+"LayerSlider by default. Note, that background sublayers are covering the "
+"global background image."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:696 ../plugins/LayerSlider/edit.php:709
+msgid "Slider style"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:703 ../plugins/LayerSlider/edit.php:716
+msgid "Here you can apply your custom CSS style settings to the slider."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:716 ../plugins/LayerSlider/edit.php:729
+msgid "Prev and Next buttons"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:718 ../plugins/LayerSlider/edit.php:731
+msgid "If disabled, Prev and Next buttons will be invisible."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:721 ../plugins/LayerSlider/edit.php:734
+msgid "Start and Stop buttons"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:723 ../plugins/LayerSlider/edit.php:736
+msgid "If disabled, Start and Stop buttons will be invisible."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:726 ../plugins/LayerSlider/edit.php:739
+msgid "Navigation buttons"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:728 ../plugins/LayerSlider/edit.php:741
+msgid "If disabled, slide buttons will be invisible."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:731 ../plugins/LayerSlider/edit.php:744
+msgid "Prev and next buttons on hover"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:733 ../plugins/LayerSlider/edit.php:746
+msgid ""
+"If enabled, the prev and next buttons will be shown only if you move your "
+"mouse cursor over the slider."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:736 ../plugins/LayerSlider/edit.php:749
+msgid "Bottom navigation on hover"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:738 ../plugins/LayerSlider/edit.php:751
+msgid ""
+"The bottom navigation controls (with also thumbnails) will be shown only if "
+"you move your mouse cursor over the slider."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:741 ../plugins/LayerSlider/edit.php:754
+msgid "Thumbnail navigation"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:745
+msgid "hover"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:746
+msgid "always"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:752 ../plugins/LayerSlider/edit.php:766
+msgid "Thumbnail width"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:754 ../plugins/LayerSlider/edit.php:768
+msgid "The width of the thumbnails in the navigation area."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:757 ../plugins/LayerSlider/edit.php:771
+msgid "Thumbnail height"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:759 ../plugins/LayerSlider/edit.php:773
+msgid "The height of the thumbnails in the navigation area."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:762 ../plugins/LayerSlider/edit.php:776
+msgid "Thumbnail container width"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:764 ../plugins/LayerSlider/edit.php:778
+msgid "The width of the thumbnail navigation area."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:767 ../plugins/LayerSlider/edit.php:781
+msgid "Thumbnail active opacity"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:769 ../plugins/LayerSlider/edit.php:783
+msgid "The selected thumbnail opacity (0-100)."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:772 ../plugins/LayerSlider/edit.php:786
+msgid "Thumbnail inactive opacity"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:774 ../plugins/LayerSlider/edit.php:788
+msgid "The opacity of inactive thumbnails (0-100)."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:787 ../plugins/LayerSlider/edit.php:801
+msgid "Image preload"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:789 ../plugins/LayerSlider/edit.php:803
+msgid "Preloads all images and background-images of the next layer."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:792 ../plugins/LayerSlider/edit.php:806
+msgid "Use relative URLs"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:794 ../plugins/LayerSlider/edit.php:808
+msgid "If enabled, LayerSlider WP will use relative URLs for images."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:801 ../plugins/LayerSlider/add.php:807
+#: ../plugins/LayerSlider/edit.php:815 ../plugins/LayerSlider/edit.php:821
+msgid "YourLogo"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:814 ../plugins/LayerSlider/edit.php:828
+msgid ""
+"This is a fixed layer that will be shown above of LayerSlider container. For "
+"example if you want to display your own logo, etc., you can upload an image "
+"or choose one from the Media Library."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:817 ../plugins/LayerSlider/edit.php:831
+msgid "YourLogo style"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:819 ../plugins/LayerSlider/edit.php:833
+msgid ""
+"You can style your logo. You can use any CSS properties, for example you can "
+"add left and top properties to place the image inside the LayerSlider "
+"container anywhere you want."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:822 ../plugins/LayerSlider/edit.php:836
+msgid "YourLogo link"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:829 ../plugins/LayerSlider/edit.php:843
+msgid ""
+"You can add a link to your logo. Set false is you want to display only an "
+"image without a link."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:832 ../plugins/LayerSlider/edit.php:846
+msgid "YourLogo link target"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:839 ../plugins/LayerSlider/edit.php:853
+msgid "If '_blank', the clicked url will open in a new window."
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:851 ../plugins/LayerSlider/edit.php:868
+msgid "Add new layer"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:1381 ../plugins/LayerSlider/edit.php:1410
+msgid "Publish"
+msgstr ""
+
+#: ../plugins/LayerSlider/add.php:1383 ../plugins/LayerSlider/edit.php:1412
+#: ../plugins/LayerSlider/editor.php:63
+msgid "Save changes"
+msgstr ""
+
+#: ../plugins/LayerSlider/edit.php:494
+msgid "Edit this LayerSlider"
+msgstr ""
+
+#: ../plugins/LayerSlider/edit.php:534
+msgid "Slider width"
+msgstr ""
+
+#: ../plugins/LayerSlider/edit.php:539
+msgid "Slider height"
+msgstr ""
+
+#: ../plugins/LayerSlider/editor.php:30
+msgid "LayerSlider Skin Editor"
+msgstr ""
+
+#: ../plugins/LayerSlider/editor.php:33
+msgid "Your changes has been saved!"
+msgstr ""
+
+#: ../plugins/LayerSlider/editor.php:39
+#: ../plugins/LayerSlider/layerslider.php:373
+msgid "Skin Editor"
+msgstr ""
+
+#: ../plugins/LayerSlider/editor.php:41
+msgid "Choose a skin:"
+msgstr ""
+
+#: ../plugins/LayerSlider/editor.php:61
+msgid ""
+"You need to make this file writable before you can save your changes. See "
+"the <a href=\"http://codex.wordpress.org/Changing_File_Permissions\" target="
+"\"_blank\">Codex</a> for more information."
+msgstr ""
+
+#: ../plugins/LayerSlider/editor.php:64
+msgid ""
+"Modifying a skin could be dangerous, these changes will be permanent, you "
+"can't revert it."
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:371
+msgid "All Sliders"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:603
+msgid ""
+"It looks like your files isn't writable, so PHP couldn't make any changes "
+"(CHMOD)."
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:603
+msgid "Cannot write to file"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:618
+msgid "Invalid shortcode"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:638
+msgid "Slider not found"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:670
+msgid "The new version of LayerSlider WP is almost ready!"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:672
+msgid ""
+"For a faster and more reliable solution, LayerSlider WP needs to convert "
+"your data associated with the plugin. Your sliders and settings will remain "
+"still, and it only takes a click on this button."
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:674
+msgid "Convert Data"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:933
+msgid "Insert a slider with LayerSlider WP Widget"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:935
+msgid "LayerSlider WP Widget"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:967
+msgid "LayerSlider"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:983
+msgid "Choose a slider:"
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:996
+msgid "You didn't create any slider yet."
+msgstr ""
+
+#: ../plugins/LayerSlider/layerslider.php:1001
+msgid "Title:"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:18
+msgid "LayerSlider sliders"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:20
+msgid "Import sample sliders"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:29
+msgid "Shortcode"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:30
+msgid "Actions"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:31
+msgid "Created"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:32
+msgid "Modified"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:45
+msgid "Duplicate"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:55
+msgid "You didn't create a slider yet."
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:63
+msgid "Import sliders"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:83
+msgid "Export sliders"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:86
+msgid ""
+"Place this export code into the import text field in your new site and press "
+"\"Import\"."
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:105
+msgid "The documentation is here"
+msgstr ""
+
+#: ../plugins/LayerSlider/list.php:105
+msgid ""
+"This is a WordPress contextual help menu, we use it to give you fast access "
+"to our documentation. Please keep in mind that because this menu is "
+"contextual, it only shows the relevant information to the page that you are "
+"currently viewing. So if you search something, you should visit the "
+"corresponding page first and then open this help menu."
+msgstr ""
+
+#: ../postformats/gallery-medium.php:54 ../postformats/gallery.php:56
+#: ../postformats/image-medium.php:33 ../postformats/image.php:30
+#: ../postformats/standard.php:22 ../postformats/video.php:39
+#: ../woocommerce/loop/add-to-cart.php:17
+#: ../woocommerce/loop/add-to-cart.php:34
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: ../woocommerce/archive-product.php:30 ../woocommerce/single-product.php:20
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:32 ../woocommerce/single-product.php:22
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: ../woocommerce/archive-product.php:95
+msgid "No products found which match your selection."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:38
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:38
+#: ../woocommerce/single-product/review.php:32
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:46
+#: ../woocommerce/single-product/tabs/tab-reviews.php:11
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:62
+#: ../woocommerce/loop/pagination.php:17
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:63
+#: ../woocommerce/loop/pagination.php:16
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Add Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:73
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:91
+msgid "Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:92
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:93
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:94
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:95
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:96
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:97
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:102
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:21 ../woocommerce/checkout/form-pay.php:18
+#: ../woocommerce/checkout/review-order.php:19
+#: ../woocommerce/order/order-details.php:18
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:22
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:23
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:24 ../woocommerce/myaccount/my-orders.php:33
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:40
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:65
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:115
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:115 ../woocommerce/checkout/form-coupon.php:24
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:31
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/empty.php:11
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/empty.php:15
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:51
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:59 ../woocommerce/cart/totals.php:146
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:64
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:65
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:18
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:22
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:48
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:59
+msgid "State"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:67
+msgid "Postcode/Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:67
+msgid "Postcode"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:70
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:20
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:25
+#: ../woocommerce/checkout/review-order.php:27
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:32
+#: ../woocommerce/checkout/review-order.php:34
+msgid "Cart Discount"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:32 ../woocommerce/cart/totals.php:195
+msgid "[Remove]"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:41
+#: ../woocommerce/checkout/review-order.php:45
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:104
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:106
+#: ../woocommerce/checkout/review-order.php:111
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:132 ../woocommerce/cart/totals.php:159
+#: ../woocommerce/checkout/review-order.php:138
+#: ../woocommerce/checkout/review-order.php:162
+msgid "incl.&nbsp;"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:174 ../woocommerce/cart/totals.php:184
+msgid "Tax"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:195
+#: ../woocommerce/checkout/review-order.php:196
+msgid "Order Discount"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:202
+#: ../woocommerce/checkout/review-order.php:205
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:220
+#, php-format
+msgid "(taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:222
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:232
+msgid ""
+"No shipping methods were found; please recalculate your shipping and enter "
+"your state/county and zip/postcode to ensure their are no other available "
+"methods for your location."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:239
+#, php-format
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your "
+"location (%s)."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:241
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:13
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:17
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+#: ../woocommerce/myaccount/form-edit-address.php:25
+#: ../woocommerce/myaccount/my-address.php:24
+#: ../woocommerce/order/order-details.php:106
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:47
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:16
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:12
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:15
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:20
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:13
+msgid "Already registered?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:16
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:18
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:19
+#: ../woocommerce/checkout/review-order.php:20
+#: ../woocommerce/order/order-details.php:19
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:20
+#: ../woocommerce/checkout/review-order.php:21
+#: ../woocommerce/order/order-details.php:20
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:76
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:85
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:30
+msgid "Ship to billing address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:33
+#: ../woocommerce/myaccount/form-edit-address.php:25
+#: ../woocommerce/myaccount/my-address.php:55
+#: ../woocommerce/order/order-details.php:121
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:57
+#: ../woocommerce/single-product/tabs/tab-attributes.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:109
+msgid "Please fill in your details above to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:150
+msgid "Order Subtotal"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:268
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:270
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:280
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:280
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:286
+msgid "Place order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:290
+msgid "I accept the"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:290
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:29
+#: ../woocommerce/myaccount/my-orders.php:61
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:31
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:37
+#: ../woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:41
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:45
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:49
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:54
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:26
+msgid "Select options"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:30
+msgid "View options"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:38
+#: ../woocommerce/single-product/add-to-cart/grouped.php:47
+#: ../woocommerce/single-product/add-to-cart/simple.php:37
+#: ../woocommerce/single-product/add-to-cart/variable.php:65
+msgid "Add to Cart"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:14
+#: ../woocommerce/single-product/sale-flash.php:14
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/loop/sorting.php:15
+msgid "Default sorting"
+msgstr ""
+
+#: ../woocommerce/loop/sorting.php:16
+msgid "Sort alphabetically"
+msgstr ""
+
+#: ../woocommerce/loop/sorting.php:17
+msgid "Sort by most recent"
+msgstr ""
+
+#: ../woocommerce/loop/sorting.php:18
+msgid "Sort by price"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:18
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:22
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:27
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:40
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:24
+#: ../woocommerce/myaccount/form-login.php:38
+#: ../woocommerce/shop/form-login.php:29
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:27
+#: ../woocommerce/shop/form-login.php:18
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:31
+#: ../woocommerce/myaccount/form-login.php:74
+#: ../woocommerce/shop/form-login.php:22
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:39
+#: ../woocommerce/shop/form-login.php:31
+msgid "Lost Password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:49
+#: ../woocommerce/myaccount/form-login.php:90
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:55
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:78
+msgid "Re-enter password"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:15
+#, php-format
+msgid ""
+"Hello, <strong>%s</strong>. From your account dashboard you can view your "
+"recent orders, manage your shipping and billing addresses and <a href=\"%s"
+"\">change your password</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:28
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:31
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:32
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:43
+msgid "You have not set up a billing address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:74
+msgid "You have not set up a shipping address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:31
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:32
+msgid "Ship to"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:55
+msgid "Click to cancel this order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:64
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:76
+msgid "You have no recent orders."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:15
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:17
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:17
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:18
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:18
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:21
+msgid "Track\""
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:14
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:58
+msgid "Download file &rarr;"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:81
+msgid "Order Again"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:88
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:92
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:93
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:110
+#: ../woocommerce/order/order-details.php:125
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:16
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:16
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:18
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:18
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:29
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:65
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:88
+#: ../woocommerce/shop/breadcrumb.php:190
+msgid "Search results for &ldquo;"
+msgstr "Результаты поиска &ldquo;"
+
+#: ../woocommerce/shop/breadcrumb.php:148
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:194
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:199
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:15
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:18
+msgid "Category:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:20
+msgid "Tags:"
+msgstr "Метки:"
+
+#: ../woocommerce/single-product/product-attributes.php:26
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:32
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:24
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:30
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/grouped.php:77
+msgid "Add to cart"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:51
+msgid "Clear selection"
+msgstr ""

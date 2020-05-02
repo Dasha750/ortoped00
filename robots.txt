@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /sxd/
+Disallow: /wp-admin/
+
+Host: ortoped.kharkov.ua
+Sitemap: https://ortoped.kharkov.ua/sitemap_index.xml
