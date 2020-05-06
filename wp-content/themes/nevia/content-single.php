@@ -126,9 +126,9 @@ if (empty($layout)) {
 
             <section class="post-content">
                 <header class="meta">
-                    <p class="title">
+                    <h1>
                         <?php the_title(); ?>
-                    </p>
+                    </h1>
                     <?php nevia_posted_on(); ?>
                 </header>
 
