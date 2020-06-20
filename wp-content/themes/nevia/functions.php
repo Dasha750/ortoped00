@@ -5,13 +5,12 @@
  * @package Nevia
  * @since Nevia 1.0
  */
-
-remove_action( 'wp_head', 'adjacent_posts_rel_link_wp_head');
 /**
  * Optional: set 'ot_show_pages' filter to false.
  * This will hide the settings & documentation pages.
  */
 add_filter( 'ot_show_pages', '__return_false' );
+add_filter( 'wpseo_next_rel_link', '__return_false' );
 
 /**
  * Required: set 'ot_theme_mode' filter to true.
