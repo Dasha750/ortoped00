@@ -9,6 +9,9 @@
  * Optional: set 'ot_show_pages' filter to false.
  * This will hide the settings & documentation pages.
  */
+
+remove_action( 'wp_head', 'adjacent_posts_rel_link_wp_head', 10);
+remove_action( 'wp_head', 'wp_shortlink_wp_head', 10);
 add_filter( 'ot_show_pages', '__return_false' );
 add_filter( 'wpseo_next_rel_link', '__return_false' );
 add_filter( 'wpseo_prev_rel_link', '__return_false' );
