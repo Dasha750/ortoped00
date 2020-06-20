@@ -32,3 +32,6 @@
     margin: 0 0 2px 0;
     color: #56af8f;
 }
+.sub-menu .menu-item a{
+    color: black!important
+}
