@@ -97,7 +97,7 @@
 	<!-- Logo -->
 		<div class="<?php echo incr_number_to_width($logo_area_width); ?> columns">
 			<div id="logo">
-				<img id="logoImg" src="https://ortoped.kharkov.ua/wp-content/uploads/main_8.png"/>
+				<img id="logoImg" src="https://ortoped.kharkov.ua/wp-content/uploads/hp_logo.jpeg"/>
 				
 				<?php  $logo = ot_get_option( 'pp_logo_upload' );
 					if($logo) { ?>
