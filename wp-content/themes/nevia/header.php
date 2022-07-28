@@ -116,11 +116,13 @@
 				<?php if(get_theme_mod('nevia_tagline_switch','show') == 'show') { ?><div id="tagline"><?php bloginfo( 'description' ); ?></div><?php } ?>
 				<div class="clearfix"></div>
 				<p class="main-address">
+					<strong>г. Киев, <br>
+						Медицинский центр R+: ул. Василия Касияна, 2/1; ул. Евгения Коновальца, 34-А 
+					</strong><br><br>
 					<strong>г. Харьков, <br>
 						Клиника "Беатрис": ул. Пушкинская 44. 
 					</strong>				
 				</p>
-				
 			</div>
 		</div>
 

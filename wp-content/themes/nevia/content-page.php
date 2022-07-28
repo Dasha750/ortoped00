@@ -70,12 +70,9 @@
     <?php } ?>
     <div class="container">
         <?php the_content(); ?>
-<!--<script type="text/javascript" src="//yastatic.net/share/share.js"-->
-charset="utf-8"></script>
+<!--<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <!--div class="yashare-auto-init" data-yashareL10n="ru"
- data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir" data-yashareTheme="counter"
-
-></div--> 
+ data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir" data-yashareTheme="counter"></div--> 
 
         <?php wp_link_pages( array( 'before' => '<div class="page-links">' . __( 'Pages:', 'purepress' ), 'after' => '</div>' ) ); ?>
    </div>
